@@ -1,5 +1,14 @@
-# dice
+# Random Dice roll
 
+![](https://i.imgur.com/Tuwz9TK.png)
+
+A personal project where six random dice rolls are generated.
+
+Software: HTML, CSS, JS
+
+github repo: https://github.com/dubhcait/dice
+
+website: https://dubhcait.github.io/dice/
 
 The inspiration for this was taken from a morning workshop in FAC. 
 Flexbox-workshop
